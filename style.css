@@ -15,10 +15,19 @@ body {
  font-size: x-large;
  text-shadow: 2px 2px red;
  
- 
-}
+ }
 
 #Todo-form {
  margin-top: 15%;
   
+}
+#Todo-form :hover {
+    color: red;
+    letter-spacing: 1px;
+}
+#list {
+    text-align: center;
+    margin-right: 20%;
+    display: block;
+
 }
