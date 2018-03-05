@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+body {
+ background-image: url("bgbild.jpg");
+ background-size: 100%;
+ width: 100%;
+ height: auto;
+ background-repeat: no-repeat;
+ color: #fff;
+ font-weight: bolder;
+ text-align: center;
+ font-size: x-large;
+ text-shadow: 2px 2px red;
+ 
+ 
+}
+
+#Todo-form {
+ margin-top: 15%;
+  
+}
